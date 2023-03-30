@@ -15,7 +15,7 @@ font-family: 'Pyeong Chang';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang.css'/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang.css"/>
 ```
 
 &nbsp;
