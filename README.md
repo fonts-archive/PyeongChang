@@ -36,7 +36,9 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Regular.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Regular.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Regular.ttf') format('truetype');
 }
 @font-face {
@@ -44,7 +46,9 @@ font-face
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Bold.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/PyeongChang/PyeongChang-Bold.ttf') format('truetype');
 }
 ```
